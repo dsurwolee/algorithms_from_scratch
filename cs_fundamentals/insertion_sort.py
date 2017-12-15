@@ -22,12 +22,6 @@ def insertion_sort(array):
 					array = shift_values(array, key_i, j)
  	return array
 
-# print(insertion_sort([2,1,3]))
-# print(insertion_sort([5,6,2,3,1]))
-# print(insertion_sort([5,6,3,2,1]))
-# print(insertion_sort([2,3,4,1]))
-# print(insertion_sort([1,2,5,3]))
-# print(insertion_sort([5,4,3,2]))
 print(insertion_sort([1,2,5,4]))
 print(insertion_sort([1,2,5,6,4]))
 
