@@ -1,7 +1,7 @@
 ######################################
 # Author: Daniel S. Lee
 # Date: 12-09-17
-# Note: Binary Tree in Python
+# Note: Binary Search in Python
 ######################################
  
 def midpoint(array):
