@@ -29,9 +29,7 @@ def binary_search(key, array):
 
 	while True:
 		mid_p, mid_i = midpoint(array)
-		print(mid_p, mid_i)
 		if mid_p == key:
-			print(mid_p, key)
 			print("Key found!")
 			break
 		elif mid_p < key:

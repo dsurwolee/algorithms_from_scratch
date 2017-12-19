@@ -1,4 +1,4 @@
-######################################
+########## ############################
 # Author: Daniel S. Lee
 # Date: 12-09-17
 # Note: Insertion Sorting in Python

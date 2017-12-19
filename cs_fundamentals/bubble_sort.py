@@ -1,7 +1,7 @@
 ######################################
 # Author: Daniel S. Lee
 # Date: 12-09-17
-# Note: Binary Sorting in Python
+# Note: Bubble Sorting in Python
 ######################################
 
 def swap(array, i, j):
