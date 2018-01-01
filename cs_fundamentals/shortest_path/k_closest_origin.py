@@ -10,8 +10,6 @@ def dist(c):
 def k_closest_origin(coords):
 	return sorted([dist(c), c] for c in coords)[0][1]
 
-# Improved approach 
-
 if __name__ == '__main__':
 
 	data = [(-2, 4),
@@ -21,7 +19,7 @@ if __name__ == '__main__':
 			(-2, 3),
 			( 3, 2)]
 
-	# print(tm("k_closest_origin(data)", setup="from __main__ import k_closest_origin, data"))
+	print(tm("k_closest_origin(data)", setup="from __main__ import k_closest_origin, data"))
 
 	
 
